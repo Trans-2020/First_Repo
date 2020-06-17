@@ -5,4 +5,8 @@ df = pd.DataFrame({
 	"b": [33, 44],
 })
 
+df_2 = pd.DataFrame({
+        "c": [55, 66],
+        "d": [77, 88],
+})
 
